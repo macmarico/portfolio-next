@@ -3,7 +3,7 @@ import classes from "./rightBar.module.css";
 
 function RightBar() {
   return (
-    <div class={classes.container}></div>
+    <div className={classes.container}></div>
   )
 }
 

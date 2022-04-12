@@ -3,8 +3,8 @@ import classes from './header.module.css'
 
 function header() {
   return (
-    <div class={classes.header}>
-      <div class={classes.pageTitle}>
+    <div className={classes.header}>
+      <div className={classes.pageTitle}>
         <b>HOME</b>
       </div>
     </div>
