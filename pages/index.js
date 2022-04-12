@@ -1,5 +1,5 @@
 import React, {Fragment} from 'react'
-import RootContainer from '../components/organisms/rootContainer/rootContainer'
+import RootContainer from '../components/organisms/rootContainer/RootContainer'
 
 function Home() {
   return (
